@@ -1,4 +1,4 @@
-### Hunter_Sender_bot
+### Telegram_sender_bot
 ___
 ### Стэк
 * Python
